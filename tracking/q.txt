@@ -1,0 +1,2 @@
+            # for i in xrange(len(newParticle)):
+            #    newParticle[i] = util.sample(getPositionDistributionForGhost(setGhostPositions(gameState, oldParticle), i, self.ghostAgents[i]))
